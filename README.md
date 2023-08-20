@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Armando Montero</h1>
-<h3 align="center">Passionate about all things information security, photography, and architecture. MDC AS Cybersecurity 22' WGU BS Cybersecurity 24'</h3> <img align= "right" alt= "img" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fhacker&psig=AOvVaw2c4vrjq-1hChDybKwALLv_&ust=1692650957201000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCMiJ36mO7IADFQAAAAAdAAAAABAE">
-
+<h3 align="center">Passionate about all things information security, photography, and architecture. MDC AS Cybersecurity 22' WGU BS Cybersecurity 24'</h3> <img align="right" alt="img" width=300 height=300 src="https://i.gifer.com/81RA.gif" >
 
 - 🔭 I’m currently working on [Cryptography Projects](https://github.com/krypt0k1/CryptographyProjects)
 
