@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Armando Montero</h1>
 <h3 align="center">Passionate about all things information security, photography, and architecture. MDC AS Cybersecurity 22' WGU BS Cybersecurity 24'</h3> 
+<img align="right" alt="img" width=400 src="https://gifdb.com/images/high/attractive-hacker-man-sy10cst3i0gm348j.webp">
+
 
 - 🔭 I’m currently working on [Cryptography Projects](https://github.com/krypt0k1/CryptographyProjects)
 - 👨‍💻 All of my projects are available at [github.com/krypt0k1](github.com/krypt0k1)
