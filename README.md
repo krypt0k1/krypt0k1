@@ -15,7 +15,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krypt0k1&show_icons=true&locale=en&layout=compact" alt="krypt0k1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krypt0k1&show_icons=true&locale=en" alt="krypt0k1" /></p>
-
 
 
