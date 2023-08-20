@@ -17,5 +17,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krypt0k1&show_icons=true&locale=en" alt="krypt0k1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krypt0k1&" alt="krypt0k1" /></p>
+
 
