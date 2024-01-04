@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Armando Montero</h1>
-<h3 align="center">Passionate about all things information security, photography, and architecture. MDC AS Cybersecurity 22' WGU BS Cybersecurity 24'</h3> 
+<h3 align="center">Passionate about all things information security, photography, and architecture. 
+<h3 align="center"> MDC AS Cybersecurity 22' 
+<h3 align="center"> WGU BS Cybersecurity 24'</h3> 
 <img align="right" alt="img" width=400 src="https://gifdb.com/images/high/attractive-hacker-man-sy10cst3i0gm348j.webp">
 
 
