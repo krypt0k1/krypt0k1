@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Cryptography Projects](https://github.com/krypt0k1/CryptographyProjects)
 - 👨‍💻 All of my projects are available at [github.com/krypt0k1](github.com/krypt0k1)
-- 📫 How to reach me **armandomontero004@hotmail.com**
+- 📫 How to reach me **armandomontero004@gmail**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
