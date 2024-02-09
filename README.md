@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Armando Montero</h1>
 <h3 align="center">Passionate about all things information security, photography, and architecture. 
-<h3 align="center"> Associates in Science (AS) from Miami Dade College 22' 
-<h3 align="center"> Bachelors in Cybersecurity and Information Assurance (BSCIA) from Western Governors University 24'</h3> 
+<h3 align="center"> Associates in Science (AS) from Miami Dade College  
+<h3 align="center"> Bachelors in Cybersecurity and Information Assurance (BSCIA) from Western Governors University </h3> 
 <img align="right" alt="img" width=400 src="https://gifdb.com/images/high/attractive-hacker-man-sy10cst3i0gm348j.webp">
 
 
