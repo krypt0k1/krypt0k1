@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on [Cryptography Projects](https://github.com/krypt0k1/CryptographyProjects)
-- 👨‍💻 All of my projects are available at [github.com/krypt0k1](https://github.com/krypt0k1)
+- 👨‍💻 All of my projects are available at [github.com/krypt0k1](https://github.com/krypt0k1?tab=repositories)
 - 📫 How to reach me **cryptographicexchange@keemail.me**
 
 <h3 align="left">Connect with me:</h3>
